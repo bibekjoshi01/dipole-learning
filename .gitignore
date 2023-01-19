@@ -3,3 +3,4 @@ venv/
 __pycache__/
 doc.txt
 db.sqlite3
+README.md
